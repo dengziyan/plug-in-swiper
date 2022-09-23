@@ -4,3 +4,5 @@ swiper插件是纯javascript打造的滑动特效插件，面向手机、平板�
 
 官网：https://www.swiper.com.cn/
 配置参数：https://www.swiper.com.cn/api/start/new.html
+
+![输入图片说明](swiper.gif)
